@@ -1,5 +1,5 @@
 AWS Lambda Email Sender
-Este é um exemplo de código para uma função Lambda da AWS que envia e-mails usando o serviço Amazon Simple Email Service (SES). A função é acionada por eventos da API Gateway e utiliza um template HTML armazenado no Amazon S3 para criar o conteúdo do e-mail.
+Código função Lambda da AWS que envia e-mails usando o serviço Amazon Simple Email Service (SES). A função é acionada por eventos da API Gateway e utiliza um template HTML armazenado no Amazon S3 para criar o conteúdo do e-mail.
 
 Pré-requisitos
 Antes de começar, certifique-se de ter:
