@@ -1,0 +1,9 @@
+{
+    "subject": "Assunto do e-mail",
+    "mail_receive": "Email de quem vai receber",
+    "contact": {
+        "name": "Nome de quem vai receber"
+    },
+    "endereço": "endereço",
+    "data": "10-08-2023"
+}
